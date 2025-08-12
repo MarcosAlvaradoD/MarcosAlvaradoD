@@ -1,6 +1,6 @@
 # Marcos Alvarado — Enterprise PM/PO for ERP & Data
 
-_I deliver complex ERP/Data programs on time—turning ambiguous requirements into measurable results._
+**ERP & Data programs that ship—on time, de-risked, with measurable business impact.**
 
 [LinkedIn](https://www.linkedin.com/in/marcos-alvarado-de-la-torre-b483b1b1) · markalvati@gmail.com · Guadalajara, MX
 
@@ -11,7 +11,7 @@ Project & Account Manager with 10+ years across **ERP, Data & Infrastructure**. 
 
 - ERP migrations (Intelisis → Dynamics AX; AX upgrades)  
 - Data/ETL (mapping, large-scale cleansing, deduplication & archiving)  
-- Infrastructure & Networking (Meraki, Ubiquiti), compliance, multi-time-zone coordination  
+- Infrastructure & Networking (Meraki, Ubiquiti), compliance, multi–time-zone coordination  
 - Industries: manufacturing, financial services, healthcare
 
 ## Core strengths
@@ -24,7 +24,7 @@ Project & Account Manager with 10+ years across **ERP, Data & Infrastructure**. 
 **PM/Agile:** PMP training, Scrum, Kanban, Lean Six Sigma (GB/BB)  
 **Platforms:** Jira, Confluence, Azure DevOps, SharePoint  
 **Data/ETL:** SQL Server, SSIS, Power BI, Python  
-**Cloud/Infra:** Azure (basic), Meraki/Ubiquiti networks
+**Cloud/Infra:** Azure (basic), Meraki, Ubiquiti
 
 ## Selected highlights
 - Led **ERP migration** and tax standardization across multiple LATAM sites, coordinating MX/Sweden dev teams and local operations.  
@@ -41,7 +41,7 @@ Project & Account Manager with 10+ years across **ERP, Data & Infrastructure**. 
 
 ---
 
-> “Enterprise PM/PO for ERP & Data: predictable delivery, stakeholder alignment, and scalable solutions.”
+> “Enterprise PM/PO for ERP & Data — predictable delivery, aligned stakeholders, and measurable business impact.”
 
 ---
 
@@ -57,21 +57,20 @@ Project & Account Manager con >10 años en **ERP, Data & Infrastructure**. He li
 - Sectores: manufactura, financiero y salud
 
 ## Fortalezas
-- **Entrega predecible**: roadmap, hitos y dependencias claras  
-- **Alineación de stakeholders**: gobierno, RACI, comunicación ejecutiva  
-- **Data pragmática**: requisitos ambiguos → métricas accionables  
-- **Operación LATAM**: husos, idiomas y regulación local
+- **Entrega predecible:** roadmap, hitos y dependencias claras  
+- **Alineación de stakeholders:** gobierno, RACI, comunicación ejecutiva  
+- **Data pragmática:** requisitos ambiguos → métricas accionables  
+- **Operación LATAM:** husos horarios, idiomas y regulación local
 
 ## Herramientas
 **PM/Agile:** PMP (training), Scrum, Kanban, Lean Six Sigma (GB/BB)  
 **Plataformas:** Jira, Confluence, Azure DevOps, SharePoint  
 **Data/ETL:** SQL Server, SSIS, Power BI, Python  
-**Cloud/Infra:** Azure (básico), redes Meraki/Ubiquiti
+**Cloud/Infra:** Azure (básico), Meraki, Ubiquiti
 
 ## Logros
 - **Migración ERP** y estandarización fiscal en varias sedes LATAM, coordinando devs MX/Suecia y operación local.  
-- En **TCS**, racionalicé repositorios (>> TB) con Python para reducir duplicados/obsoletos.  
-- **Telemedicina** end-to-end en zona remota (hardware, software, conectividad, operación).
+- En **TCS**, racionalicé repositorios (>> TB) con automatización en Python para reducir duplicados/obsoletos.  
+- Implementé **telemedicina** de punta a punta en zona remota (hardware, software, conectividad, operación).
 
 </details>
-
