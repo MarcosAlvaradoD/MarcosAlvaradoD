@@ -7,33 +7,33 @@ _I deliver complex ERP/Data programs on time—turning ambiguous requirements in
 ---
 
 ## About me
-Project & Account Manager con >10 años en **ERP, Data & Infrastructure**. He liderado migraciones y despliegues multi-país (LATAM), integrando equipos de negocio, TI y vendors para entregar **valor medible** con riesgos controlados.
+Project & Account Manager with 10+ years across **ERP, Data & Infrastructure**. I lead multi-country (LATAM) migrations and deployments, aligning business, IT, and vendors to deliver **measurable value** with controlled risk.
 
 - ERP migrations (Intelisis → Dynamics AX; AX upgrades)  
-- Data/ETL (mapeo, limpieza masiva, deduplicación y archivado)  
-- Infra & Networking (Meraki, Ubiquiti), cumplimiento y coordinación multi-zona  
-- Sectores: manufactura, financiero y salud
+- Data/ETL (mapping, large-scale cleansing, deduplication & archiving)  
+- Infrastructure & Networking (Meraki, Ubiquiti), compliance, multi-time-zone coordination  
+- Industries: manufacturing, financial services, healthcare
 
 ## Core strengths
-- **Delivery predecible:** roadmap claro, hitos y gestión de dependencias  
-- **Stakeholder alignment:** gobierno, RACI, comunicación ejecutiva  
-- **Data pragmática:** de requisitos ambiguos a métricas accionables  
-- **Operación LATAM:** timezone/idiomas/legales coordinados
+- **Predictable delivery:** clear roadmaps, milestones, and dependency management  
+- **Stakeholder alignment:** governance, RACI, executive communication  
+- **Pragmatic data:** turning ambiguous requirements into actionable metrics  
+- **LATAM operations:** time zones, languages, and local regulations
 
 ## Toolbox
-**PM/Agile:** PMI/PMP (training), Scrum, Kanban, Lean Six Sigma (GB/BB)  
+**PM/Agile:** PMP training, Scrum, Kanban, Lean Six Sigma (GB/BB)  
 **Platforms:** Jira, Confluence, Azure DevOps, SharePoint  
 **Data/ETL:** SQL Server, SSIS, Power BI, Python  
-**Cloud/Infra:** Azure (básico), redes Meraki/Ubiquiti
+**Cloud/Infra:** Azure (basic), Meraki/Ubiquiti networks
 
 ## Selected highlights
-- Lideré **migración ERP** y estandarización fiscal para varias sedes en LATAM, coordinando devs MX/Suecia y operaciones locales.  
-- En **TCS**, racionalicé repositorios documentales (>> TB) con automatización en Python para reducir duplicados/obsoletos.  
-- Implementé **telemedicina** de punta a punta en zona remota (hardware, software, conectividad, operación).
+- Led **ERP migration** and tax standardization across multiple LATAM sites, coordinating MX/Sweden dev teams and local operations.  
+- At **TCS**, rationalized multi-terabyte document repositories with Python automation to reduce duplicates/obsolete files.  
+- Delivered an end-to-end **telemedicine** rollout in a remote area (hardware, software, connectivity, operations).
 
 ## What I'm focusing on
-- Roles de **Product Owner / Project Manager** en ERP & Data  
-- Automatizaciones útiles (Python) para productividad y gobierno de datos
+- **Product Owner / Project Manager** roles in ERP & Data  
+- Useful **Python automations** for productivity and data governance
 
 ## Get in touch
 - ✉️ markalvati@gmail.com  
@@ -42,3 +42,36 @@ Project & Account Manager con >10 años en **ERP, Data & Infrastructure**. He li
 ---
 
 > “Enterprise PM/PO for ERP & Data: predictable delivery, stakeholder alignment, and scalable solutions.”
+
+---
+
+<details>
+<summary>Leer en español</summary>
+
+## Sobre mí
+Project & Account Manager con >10 años en **ERP, Data & Infrastructure**. He liderado migraciones y despliegues multi-país (LATAM), integrando negocio, TI y vendors para entregar **valor medible** con riesgo controlado.
+
+- Migraciones ERP (Intelisis → Dynamics AX; upgrades de AX)  
+- Data/ETL (mapeo, limpieza masiva, deduplicación y archivado)  
+- Infraestructura & Redes (Meraki, Ubiquiti), cumplimiento y coordinación multi-zona  
+- Sectores: manufactura, financiero y salud
+
+## Fortalezas
+- **Entrega predecible**: roadmap, hitos y dependencias claras  
+- **Alineación de stakeholders**: gobierno, RACI, comunicación ejecutiva  
+- **Data pragmática**: requisitos ambiguos → métricas accionables  
+- **Operación LATAM**: husos, idiomas y regulación local
+
+## Herramientas
+**PM/Agile:** PMP (training), Scrum, Kanban, Lean Six Sigma (GB/BB)  
+**Plataformas:** Jira, Confluence, Azure DevOps, SharePoint  
+**Data/ETL:** SQL Server, SSIS, Power BI, Python  
+**Cloud/Infra:** Azure (básico), redes Meraki/Ubiquiti
+
+## Logros
+- **Migración ERP** y estandarización fiscal en varias sedes LATAM, coordinando devs MX/Suecia y operación local.  
+- En **TCS**, racionalicé repositorios (>> TB) con Python para reducir duplicados/obsoletos.  
+- **Telemedicina** end-to-end en zona remota (hardware, software, conectividad, operación).
+
+</details>
+
